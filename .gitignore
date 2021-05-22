@@ -1,3 +1,8 @@
+x64
+Debug
+*.tlog
+
+
 # Prerequisites
 *.d
 
